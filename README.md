@@ -17,5 +17,3 @@ This is a simple javascript project made with the help of HTML, CSS and OpenWeat
 You can contribute in this project by adding some new features or anything in your mind to contribute <br>
 [Check for getting started](#)
 
-<br> 
-For any query, dm https://www.instagram.com/_rahulmistry/
