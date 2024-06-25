@@ -1,4 +1,4 @@
-# <h1 align="center">Weather App | Rahul Mistry</h1>
+# <h1 align="center">Weather App | Manan Patel</h1>
 
 <br>
 
